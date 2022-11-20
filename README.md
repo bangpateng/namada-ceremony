@@ -14,8 +14,6 @@
 
 [Dasboard Website Testnet](https://ceremony.namada.net/)
 
-[Server discord](https://discord.gg/dusknetwork)
-
 # Install Via Source Code
 
 ### Pertama, Anda perlu menginstal beberapa dependensi. Pada sistem berbasis debian Anda dapat menggunakan:
